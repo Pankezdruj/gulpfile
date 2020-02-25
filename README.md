@@ -8,10 +8,10 @@
 `Need to change only if you have unusual file or folder names`
 
 ## Required gulp plugins:
-browser-sync
-gulp-sass
-gulp-clean-css
-gulp-autoprefixer
-gulp-rename
-gulp-imagemin
-gulp-htmlmin
+1. browser-sync
+1. gulp-sass
+1. gulp-clean-css
+1. gulp-autoprefixer
+1. gulp-rename
+1. gulp-imagemin
+1. gulp-htmlmin
